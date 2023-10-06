@@ -16,9 +16,9 @@ I'm a reverse engineering, programming, and all around computer hobbyist.
 
 ## ✔️ Details about me
 
-🧠 I'm currently learning Debian GNU/Linux.
+🧠 I'm currently learning Linux.
 
-📝 [My current project](https://github.com/CaesarAtmos/CaesarAtmos.github.io)
+📝 My current project is the Atmos Obfuscation Tool. (WIP)
 
 👯‍♀️ I'm looking to collaborate on projects that involve reverse engineering and/or low level programming.
 
